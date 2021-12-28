@@ -1,0 +1,19 @@
+[normal]The [orange]No GPS player icon [normal]mod hides the blue triangle "GPS fix" icon which is used to indicate the player's position on the world map.
+
+This may be useful when playing with no navigation, because opening the world map to e.g. search for a gas station is less likely to "spoil" your current position.
+
+[orange]Limitation:
+
+[normal]The same icon that is used on the world map is also used in the Route Advisor and the truck's 3D-rendered navigation display. Installing this mod will hide the icon everywhere.
+
+[orange]Compatibility:
+
+[normal]Tested with ATS 1.43. Likely compatible with a wide range of ATS and ETS2 versions. Can be added and removed with no ill effects; the icon simply re-appears upon removal.
+
+[orange]Distribution:
+
+[normal]This mod is placed into the Public Domain. You do whatever you want with it! :) No attribution is required. Should you still wish to cite the original source of the idea, please credit the author as [orange]nautofon [normal]and/or link to this mod's discussion thread on the SCS forum.
+
+[blue]https://forum.scssoft.com/viewtopic.php?t=307130
+
+[normal]Enjoy!
