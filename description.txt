@@ -8,7 +8,7 @@ This may be useful when playing with no navigation, because opening the world ma
 
 [orange]Compatibility:
 
-[normal]Tested with ATS 1.43. Likely compatible with a wide range of ATS and ETS2 versions. Can be added and removed with no ill effects; the icon simply re-appears upon removal.
+[normal]Tested with ATS 1.42 through 1.45. Likely compatible with a wide range of ATS and ETS2 versions. Can be added and removed with no ill effects; the icon simply re-appears upon mod removal.
 
 [orange]Distribution:
 
