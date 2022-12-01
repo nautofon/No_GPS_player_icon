@@ -1,27 +1,13 @@
 SiiNunit
 {
-# ".package_name" does not matter as the dot at the beginning of the file means that this unit is anonymous. 
-# Please keep this form to not make any conflicts with other mod packages (name collisions).
 mod_package : .package_name {
 
-    # Package version can be any string with any length.
-    package_version: "2"
-
-    # Display name can be any string with any length.
-    display_name: "No GPS player icon"
-
-    # Author can be any string with any length.
+    package_version: "1"
+    display_name: "Hide player position"
     author: "nautofon"
-
-    # Categories is an array of strings. Examples: truck, trailer, interior, tuning_parts, ai_traffic, sound, paint_job, cargo_pack, map, ui, other.
     category[]: "ui"
-
-    # Icon inside the root directory of the mod.
-    icon: "thumbnail.jpg"
-
-    # Description file inside the root directory of the mod.
+    icon: "Hide_player_position.jpg"
     description_file: "description.txt"
-
     mp_mod_optional: true
 }
 }

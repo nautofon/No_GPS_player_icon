@@ -1,6 +1,6 @@
-[normal]The [orange]No GPS player icon [normal]mod hides the blue triangle "GPS fix" icon which is used to indicate the player's position on the world map.
+[normal]The [orange]Hide player position [normal]mod is a variant of the [orange]No GPS player icon [normal]mod that not only hides the blue triangle "GPS fix" icon, but also makes all undiscovered roads yellow.
 
-This may be useful when playing with no navigation, because opening the world map to e.g. search for a gas station is less likely to "spoil" your current position.
+This may be useful when playing with no navigation, because opening the world map to e.g. search for a gas station is even less likely to "spoil" your current position.
 
 [orange]Limitation:
 
@@ -8,7 +8,7 @@ This may be useful when playing with no navigation, because opening the world ma
 
 [orange]Compatibility:
 
-[normal]Tested with ATS 1.42 through 1.45. Likely compatible with a wide range of ATS and ETS2 versions. Can be added and removed with no ill effects; the icon simply re-appears upon mod removal.
+[normal]Made for ATS 1.46. Likely [red]NOT [normal]compatible with most map mods and some future ATS versions.
 
 [orange]Distribution:
 
