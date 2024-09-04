@@ -1,19 +1,20 @@
-[normal]The [orange]Hide player position [normal]mod is a variant of the [orange]No GPS player icon [normal]mod that not only hides the blue triangle "GPS fix" icon, but also makes all undiscovered roads yellow.
+The [orange]Hide player position[normal] mod is a variant of the [orange]No GPS player icon[normal] mod that not only hides the blue triangle "GPS fix" icon, but also makes all undiscovered roads yellow.
 
 This may be useful when playing with no navigation, because opening the world map to e.g. search for a gas station is even less likely to "spoil" your current position.
 
-[orange]Limitation:
+[orange]Limitation:[normal]
 
-[normal]The same icon that is used on the world map is also used in the Route Advisor and the truck's 3D-rendered navigation display. Installing this mod will hide the icon everywhere.
+The same icon that is used on the world map is also used in the Route Advisor and the truck's 3D-rendered navigation display. Installing this mod will hide the icon everywhere.
 
-[orange]Compatibility:
+[orange]Compatibility:[normal]
 
-[normal]Made for ATS 1.46. Likely [red]NOT [normal]compatible with most map mods and some future ATS versions.
+Requires ATS 1.51 or later. Likely [red]NOT[normal] compatible with many map mods and some future DLC.
 
-[orange]Distribution:
+[orange]Distribution:[normal]
 
-[normal]This mod is placed into the Public Domain. You do whatever you want with it! :) No attribution is required. Should you still wish to cite the original source of the idea, please credit the author as [orange]nautofon [normal]and/or link to this mod's discussion thread on the SCS forum.
+This mod is placed into the Public Domain. You do whatever you want with it! Attribution would be appreciated, but it's not required. To cite the original source of the idea, feel free to credit the author as [orange]nautofon[normal], link to this mod's GitHub repository, and/or to this mod's discussion thread on the SCS forum.[blue]
 
-[blue]https://forum.scssoft.com/viewtopic.php?t=307130
+https://github.com/nautofon/No_GPS_player_icon
+https://forum.scssoft.com/viewtopic.php?t=307130
 
 [normal]Enjoy!

@@ -2,7 +2,7 @@ SiiNunit
 {
 mod_package : .package_name {
 
-    package_version: "2 dev"
+    package_version: "2"
     display_name: "Hide player position"
     author: "nautofon"
     category[]: "ui"
